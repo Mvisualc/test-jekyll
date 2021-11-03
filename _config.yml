@@ -1,0 +1,9 @@
+# Site settings
+title: New Test Site
+author:
+  name: Mike
+  email: mikedroid433@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
